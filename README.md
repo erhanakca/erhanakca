@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanakca&theme=dracula&layout=compact) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erhanakca&count_private=true&theme=dracula&show_icons=true)
+
 ![PHP](https://img.shields.io/badge/PHP-666?style=for-the-badge&logo=PHP)
 ![C#](https://img.shields.io/badge/C_SHARP-666?style=for-the-badge&logo=C-Sharp)
 ![Laravel](https://img.shields.io/badge/Laravel-666?style=for-the-badge&logo=Laravel)
