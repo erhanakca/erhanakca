@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanakca&theme=dracula&layout=compact) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erhanakca&count_private=true&theme=dracula&show_icons=true)
